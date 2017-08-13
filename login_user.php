@@ -57,8 +57,8 @@
 		<div class="top-nav">
 			<span class="menu"> </span>
 			<ul style="margin-top:2%">
-				<li class="active"><a href="index.html">Home</a></li>
-				<li><a href="about_us.html">Rreth nesh</a></li>
+				<li class="active"><a href="indexi.html">Home</a></li>
+			
 				<li><a href="registerPacient.php">Regjistrohu</a></li>
 				<li><a href="login_user.php">Login</a></li>
 			</ul>
@@ -85,7 +85,7 @@
 				</div>									
 			</div>
 			<div class="clearfix"> </div>
-				<input type="submit" name="Kycu" value="KyÃ§u" style="margin-left:42%; margin-top:3%">
+				<input type="submit" name="Kycu" value="Kycu" style="margin-left:42%; margin-top:3%">
 			</form>
 		</div>
 	</div>

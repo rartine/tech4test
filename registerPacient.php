@@ -19,8 +19,8 @@
 			<span class="menu"> </span>
 			<ul style="margin-top:2%">
 				<li class="active"><a href="index.html">Home</a></li>
-				<li><a href="about.html">Rreth nesh</a></li>
-				<li><a href="regjistrohu.php">Regjistrohu</a></li>
+				<li><a href="about_us.html">Rreth nesh</a></li>
+				<li><a href="registerPacient.php">Regjistrohu</a></li>
 				<li><a href="login_user.php">Login</a></li>
 			</ul>
 		</div>
